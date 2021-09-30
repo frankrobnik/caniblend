@@ -2,7 +2,7 @@
 
 # caniblend
 
-Food & Health – responsive web application to create custom smoothies and to search for ingredients and recipes to get detailed nutritional information about their composition.
+Food & Health – responsive web application to create custom smoothies. Search and blend ingredients and get detailed nutritional information about its composition. 
 
 ## Tech stack
 
