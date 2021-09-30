@@ -8,7 +8,7 @@ Food & Health – responsive web application to create custom smoothies. Search 
 
 **Frontend:** React, TypeScript, Tailwindcss
 
-**Backend:** Expressjs, MongoDB, mongoose
+**Backend:** Express, MongoDB, mongoose.js
 
 ## Screenshots
 
