@@ -25,7 +25,7 @@ Food & Health – responsive web application to create custom smoothies. Search 
 2. setup your environment variables for the database and the server in `.env.example`
 3. run `npm install` in the **server** folder
 4. run `npm install` in the **client** folder
-5. start the server within the **server** folder with `npx nodemon index.js` this will autopopulate the db with example ingredients and recipes
+5. start the server within the **server** folder with `npm start` this will auto populate the db with example ingredients and recipes
 6. finally start the client in the **client** folder with `npm start`
 
 
