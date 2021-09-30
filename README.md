@@ -2,7 +2,7 @@
 
 # caniblend
 
-Web application to create custom smoothies. Search and blend ingredients and get detailed nutritional information about its composition. 
+Food & Health – web application to create custom smoothies and to search for ingredients and recipes to get detailed nutritional information about their composition.
 
 ## Tech stack
 
